@@ -1,0 +1,13 @@
+D:\work\test\Classes\AppDelegate.cpp;D:\work\test\proj.win32\Debug.win32\AppDelegate.obj
+D:\work\test\Classes\configs\LevelConfigLoader.cpp;D:\work\test\proj.win32\Debug.win32\LevelConfigLoader.obj
+D:\work\test\Classes\controllers\GameController.cpp;D:\work\test\proj.win32\Debug.win32\GameController.obj
+D:\work\test\Classes\managers\UndoManager.cpp;D:\work\test\proj.win32\Debug.win32\UndoManager.obj
+D:\work\test\Classes\models\CardModel.cpp;D:\work\test\proj.win32\Debug.win32\CardModel.obj
+D:\work\test\Classes\models\GameModel.cpp;D:\work\test\proj.win32\Debug.win32\GameModel.obj
+D:\work\test\Classes\models\UndoModel.cpp;D:\work\test\proj.win32\Debug.win32\UndoModel.obj
+D:\work\test\Classes\services\CardMatchService.cpp;D:\work\test\proj.win32\Debug.win32\CardMatchService.obj
+D:\work\test\Classes\services\GameModelGenerator.cpp;D:\work\test\proj.win32\Debug.win32\GameModelGenerator.obj
+D:\work\test\Classes\utils\CardResUtils.cpp;D:\work\test\proj.win32\Debug.win32\CardResUtils.obj
+D:\work\test\Classes\views\CardView.cpp;D:\work\test\proj.win32\Debug.win32\CardView.obj
+D:\work\test\Classes\views\GameView.cpp;D:\work\test\proj.win32\Debug.win32\GameView.obj
+D:\work\test\proj.win32\main.cpp;D:\work\test\proj.win32\Debug.win32\main.obj
